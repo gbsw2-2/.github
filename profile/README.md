@@ -1,8 +1,9 @@
 ### 경북소프트웨어고등학교 24학년도 2학년 2반
 
+> [!important]   
 > 응용개발프로그래밍 과제를 올리는 곳 </br>
 > **반드시 학번-Repository제목 형식으로 제출** </br>
-> **description은 당일 날짜 yyyy-MM-dd 형식으로 제출** </br>
+> **description은 당일 날짜 YYYY-MM-DD 형식으로 제출** </br>
 > **제출은 항상 private으로 제출하기**
 
 - [X] Hello 리액트 폴더 제출 (2024-06-10 ~ 2024-06-11)
